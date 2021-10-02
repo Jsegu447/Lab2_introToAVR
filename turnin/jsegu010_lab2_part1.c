@@ -1,7 +1,7 @@
 /*	Author: jsegu010
  *  Partner(s) Name: 
  *	Lab Section:
- *	Assignment: Lab #  Exercise #2
+ *	Assignment: Lab #  Exercise #1
  *	Exercise Description: [optional - include for your own benefit]
  *	Intro to AVR 
  *
